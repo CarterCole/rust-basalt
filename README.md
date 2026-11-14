@@ -1,3 +1,5 @@
+![RUST-BASALT](.github/banner.png)
+
 # basalt — Rust
 
 A complete Rust implementation of [the Basalt Protocol v1](../protocol/PROTOCOL.md),
